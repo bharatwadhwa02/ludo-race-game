@@ -1,0 +1,58 @@
+.profile {
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: 18rem;
+}
+.profile img {
+  width: 6em;
+}
+
+.progress-bar-div-one {
+  position: relative;
+  left: 26rem;
+  width: 52rem;
+}
+.progress-bar-div-one img {
+  position: absolute;
+  width: 2rem;
+  left: 2.5rem;
+  bottom: 2rem;
+}
+.progress-bar-div-one p {
+  position: absolute;
+  left: 30rem;
+  top: 1rem;
+}
+.progress-bar-div-two img {
+  position: absolute;
+  bottom: 5rem;
+  width: 2rem;
+  left: 2.5rem;
+}
+
+.progress-bar-div-two {
+  position: absolute;
+  left: 30rem;
+  width: 52rem;
+  top: 9rem;
+}
+.progress-bar-div-two p {
+  position: absolute;
+  left: 30rem;
+  bottom: 0rem;
+}
+.girl {
+  position: relative;
+  top: 22rem;
+}
+
+.progress-bar-div-one .flag {
+  position: absolute;
+  left: 39rem;
+}
+
+.progress-bar-div-two .flag {
+  position: absolute;
+  left: 39rem;
+}
